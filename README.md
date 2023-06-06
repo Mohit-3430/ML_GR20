@@ -7,7 +7,7 @@
 - [link](https://data-flair.training/blogs/python-ml-data-preprocessing/)
 
 ### Task3
-- [link](https://www.datacamp.com/tutorial/principal-component-analysis-in-python)
+- [link](https://medium.com/analytics-vidhya/principal-component-analysis-pca-8a0fcba2e30c#:~:text=PCA%20is%20affected%20by%20scale,of%20many%20Machine%20Learning%20algorithms.)
 
 ### Task4
 - [link](https://www.geeksforgeeks.org/data-visualization-with-python/)
